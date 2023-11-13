@@ -12,6 +12,9 @@ function Layout() {
                     <li>
                         <Link to="/about" className="nav-item">About</Link>
                     </li>
+                    <li>
+                        <Link to="/search" className="nav-item">Search</Link>
+                    </li>
                 </ul>
             </nav>
             <hr />
